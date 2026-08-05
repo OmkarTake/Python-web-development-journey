@@ -1,5 +1,4 @@
 # Python-web-development-journey
-# Python Web Development Journey 🚀
 
 Welcome to my Python Web Development learning repository.
 
